@@ -1,7 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
-import Button from '@material-ui/core/Button';
+// import Button from '@material-ui/core/Button';
 import DashboardTemplate from './containers/templates/Dashboard';
 
 
